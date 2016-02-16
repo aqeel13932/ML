@@ -195,20 +195,21 @@
 		\end{center}
 		\caption{Countries area in Europe vs Africa}
 	\end{figure}
-	
+	In figure 9 we can see that Africa countries has more areas than Europe ones.
 	\begin{figure}[H]
 		\begin{center}
 			\includegraphics[scale=0.6]{qqplotpopulation.png}
 		\end{center}
 		\caption{Countries population in Europe vs Africa}
 	\end{figure}
-	
+	In figure 10 we can observe how Europe countries has more population than African countries.
 	\begin{figure}[H]
 		\begin{center}
 			\includegraphics[scale=0.6]{qqplotdensity.png}
 		\end{center}
 		\caption{Countries density in Europe vs Africa}
 	\end{figure}
+	In figure 11 it's clearly that Europe has higher density and that's due Africa has larger area but less population as we saw in figure 9\&10
 	\subsection*{\centering{First(d)}}
 	To get the cover we get number of rows for (Marxist, Muslim , English).\\
 	Support we get the number of rows for the condition and the result (Marxist\&red , Muslim\&green , English\& saltires\(>\)0).\\
@@ -619,7 +620,54 @@
 	Comparing the previous figures with ones in (Second question (b)) won't show much difference.That's because the difference is small compared to the scale of the axis. But the comparison by table values is clear.
 	\section*{Third Question}
 	\subsection*{Third(a)}
+	The Code for this question : \\
+	\begin{lstlisting}[language=R]
+#Third Question (a)
+rm (list = ls())
+RateFunction<-function (years=20)
+{
+rates<-vector(mode = "numeric",length = 0)
+mean=2
+sd =0.5
+for (i in c(1:years))
+{
+#this is not the first round
+if (i>1)
+{
+#If previous rate larger or equal 1 mean =2
+if (rates[i-1]>=1)
+{
+mean=2
+}
+#If Previous rate less than 1
+else if (rates[i-1]<1)
+{
+mean =0
+}
+}
+#calculate the new rate.
+print (mean)
+currentrate = rnorm(1,mean = mean,sd = sd)
+#Fix the current Rate :
+if (currentrate<0)
+{
+currentrate=0
+}
+#Fix the rate
+rates<-c(rates,currentrate)
+}
+return (rates)
+}
+plot(c(1:20),RateFunction(years = 20),type = "l")
+	\end{lstlisting}
+\begin{figure}[H]
+	\begin{center}
+	\includegraphics[scale=0.6]{plotrate.png}
+	\end{center}
+\caption{The Rate value for each year}
+\end{figure}
 	\subsection*{Third(b)}
+Under Construction :D
 	\subsection*{Third(c)}
 	\subsection*{Third(d)}
 	\section*{Fourth Question}

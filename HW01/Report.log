@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.10.24)  14 FEB 2016 18:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.10.24)  16 FEB 2016 13:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -644,115 +644,115 @@ File: qqplotdensity.png Graphic file (type png)
 Package pdftex.def Info: qqplotdensity.png used on input line 208.
 (pdftex.def)             Requested size: 472.16765pt x 277.03714pt.
  [9 <./qqplotpopulation.png> <./qqplotdensity.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 238--242
+Underfull \hbox (badness 10000) in paragraph at lines 239--243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--260
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 279--285
+Underfull \hbox (badness 10000) in paragraph at lines 257--261
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
+Underfull \hbox (badness 10000) in paragraph at lines 280--286
 
  []
 
 
-Overfull \hbox (38.54007pt too wide) in paragraph at lines 307--316
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+
+Overfull \hbox (38.54007pt too wide) in paragraph at lines 308--317
 []  
  []
 
 
-Overfull \hbox (41.08208pt too wide) in paragraph at lines 331--340
+Overfull \hbox (41.08208pt too wide) in paragraph at lines 332--341
 []  
  []
 
 
-Overfull \hbox (57.34012pt too wide) in paragraph at lines 358--363
+Overfull \hbox (57.34012pt too wide) in paragraph at lines 359--364
 \OT1/cmr/bx/n/10 Sunstars: \OT1/cmr/m/n/10 I used the pre-vi-ous re-quest ta-bl
 es to help me judge so the rule was (lan-guage:English,landmass:Oceania,sunstar
 s>0)
  []
 
 [11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--483
+Underfull \hbox (badness 10000) in paragraph at lines 467--484
 
  []
 
 <plotmeanall.png, id=75, 722.7pt x 462.72874pt>
 File: plotmeanall.png Graphic file (type png)
  <use plotmeanall.png>
-Package pdftex.def Info: plotmeanall.png used on input line 487.
+Package pdftex.def Info: plotmeanall.png used on input line 488.
 (pdftex.def)             Requested size: 505.88655pt x 323.90791pt.
 
-Overfull \hbox (22.18971pt too wide) in paragraph at lines 487--488
+Overfull \hbox (22.18971pt too wide) in paragraph at lines 488--489
  [] 
  []
 
 <plotmean4.png, id=76, 722.7pt x 462.72874pt>
 File: plotmean4.png Graphic file (type png)
  <use plotmean4.png>
-Package pdftex.def Info: plotmean4.png used on input line 493.
+Package pdftex.def Info: plotmean4.png used on input line 494.
 (pdftex.def)             Requested size: 433.62334pt x 277.63939pt.
  [13]
 <plotminall.png, id=81, 722.7pt x 462.72874pt>
 File: plotminall.png Graphic file (type png)
  <use plotminall.png>
-Package pdftex.def Info: plotminall.png used on input line 500.
+Package pdftex.def Info: plotminall.png used on input line 501.
 (pdftex.def)             Requested size: 505.88655pt x 323.90791pt.
 
-Overfull \hbox (22.18971pt too wide) in paragraph at lines 500--501
+Overfull \hbox (22.18971pt too wide) in paragraph at lines 501--502
  [] 
  []
 
 <plotmin4.png, id=82, 722.7pt x 462.72874pt>
 File: plotmin4.png Graphic file (type png)
  <use plotmin4.png>
-Package pdftex.def Info: plotmin4.png used on input line 506.
+Package pdftex.def Info: plotmin4.png used on input line 507.
 (pdftex.def)             Requested size: 505.88655pt x 323.90791pt.
 
-Overfull \hbox (22.18971pt too wide) in paragraph at lines 506--507
+Overfull \hbox (22.18971pt too wide) in paragraph at lines 507--508
  [] 
  []
 
 [14 <./plotmeanall.png> <./plotmean4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 510--511
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
 
  []
 
 [15 <./plotminall.png> <./plotmin4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 572--591
+Underfull \hbox (badness 10000) in paragraph at lines 573--592
 
  []
 
 [16] <plotmeanallno.png, id=96, 722.7pt x 462.72874pt>
 File: plotmeanallno.png Graphic file (type png)
  <use plotmeanallno.png>
-Package pdftex.def Info: plotmeanallno.png used on input line 594.
+Package pdftex.def Info: plotmeanallno.png used on input line 595.
 (pdftex.def)             Requested size: 505.88655pt x 323.90791pt.
 
-Overfull \hbox (22.18971pt too wide) in paragraph at lines 594--595
+Overfull \hbox (22.18971pt too wide) in paragraph at lines 595--596
  [] 
  []
 
 <plotmean4no.png, id=97, 722.7pt x 462.72874pt>
 File: plotmean4no.png Graphic file (type png)
  <use plotmean4no.png>
-Package pdftex.def Info: plotmean4no.png used on input line 601.
+Package pdftex.def Info: plotmean4no.png used on input line 602.
 (pdftex.def)             Requested size: 505.88655pt x 323.90791pt.
 
-Overfull \hbox (22.18971pt too wide) in paragraph at lines 601--602
+Overfull \hbox (22.18971pt too wide) in paragraph at lines 602--603
  [] 
  []
 
@@ -760,50 +760,60 @@ Overfull \hbox (22.18971pt too wide) in paragraph at lines 601--602
 File: plotminallno.png Graphic file (type png)
 
 <use plotminallno.png>
-Package pdftex.def Info: plotminallno.png used on input line 608.
+Package pdftex.def Info: plotminallno.png used on input line 609.
 (pdftex.def)             Requested size: 505.88655pt x 323.90791pt.
 
-Overfull \hbox (22.18971pt too wide) in paragraph at lines 608--609
+Overfull \hbox (22.18971pt too wide) in paragraph at lines 609--610
  [] 
  []
 
 <plotmin4no.png, id=103, 722.7pt x 462.72874pt>
 File: plotmin4no.png Graphic file (type png)
  <use plotmin4no.png>
-Package pdftex.def Info: plotmin4no.png used on input line 615.
+Package pdftex.def Info: plotmin4no.png used on input line 616.
 (pdftex.def)             Requested size: 505.88655pt x 323.90791pt.
 
-Overfull \hbox (22.18971pt too wide) in paragraph at lines 615--616
+Overfull \hbox (22.18971pt too wide) in paragraph at lines 616--617
  [] 
  []
 
-[18 <./plotmean4no.png> <./plotminallno.png>] [19 <./plotmin4no.png>]
-(./Report.aux) ) 
+[18 <./plotmean4no.png> <./plotminallno.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 623--624
+
+ []
+
+[19 <./plotmin4no.png>] <plotrate.png, id=114, 796.9775pt x 462.72874pt>
+File: plotrate.png Graphic file (type png)
+
+<use plotrate.png>
+Package pdftex.def Info: plotrate.png used on input line 665.
+(pdftex.def)             Requested size: 478.19019pt x 277.63939pt.
+ [20 <./plotrate.png>] (./Report.aux) ) 
 Here is how much of TeX's memory you used:
- 5012 strings out of 495000
- 67372 string characters out of 6181168
- 367335 words of memory out of 5000000
- 8173 multiletter control sequences out of 15000+600000
+ 5021 strings out of 495000
+ 67504 string characters out of 6181168
+ 349922 words of memory out of 5000000
+ 8181 multiletter control sequences out of 15000+600000
  7895 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  37i,8n,42p,352b,2040s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb>
-Output written on Report.pdf (19 pages, 305730 bytes).
+</usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy8.pfb>
+Output written on Report.pdf (20 pages, 321949 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 161 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

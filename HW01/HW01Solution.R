@@ -303,3 +303,60 @@ meav
 mesd
 miav
 misd
+
+#Third Question (a)
+rm (list = ls())
+RateFunction<-function (years=20)
+{
+  rates<-vector(mode = "numeric",length = 0)
+  mean=2
+  sd =0.5
+  for (i in c(1:years))
+  {
+    #this is not the first round
+    if (i>1)
+    {
+      #If previous rate larger or equal 1 mean =2
+      if (rates[i-1]>=1)
+      {
+        mean=2
+      }
+      #If Previous rate less than 1
+      else if (rates[i-1]<1)
+      {
+        mean =0
+      }
+    }
+    #calculate the new rate.
+    print (mean)
+    currentrate = rnorm(1,mean = mean,sd = sd)
+    #Fix the current Rate :
+    if (currentrate<0)
+    {
+      currentrate=0
+    }
+    #Fix the rate
+    rates<-c(rates,currentrate)
+  }
+  return (rates)
+}
+plot(c(1:20),RateFunction(years = 20),type = "l")
+
+
+#Third Question (b)
+rm (list = ls())
+
+rates<-matrix(data=0,nrow = 20,ncol = 10000)
+
+for (i in c(1:20))
+{
+  #Get ND for 10000 elements 
+   vec <- rnorm(10000,mean = 2,sd = 0.5)
+   length(which(vec<0))
+   #replace values less than zero with 0
+   vec[vec<0]<-0
+   #Generate next element with mean 0 if previous was less than 1
+   vec[(vec<0)+1]<- rnorm(1,mean = 0,sd=0.5)
+   
+}
+plot(c(1:20),RateFunction(years = 20),type = "l")
